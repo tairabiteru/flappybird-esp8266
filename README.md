@@ -1,0 +1,6 @@
+# Flappy Bird on ESP8266
+This project spawned from a simple bit of conjecture. I was tasked with creating projects to help teach people about microcontrollers, and to that end I created a simple device to build which would basically use the hardware RNG of an ESP8266 to roll a die. Combine this concept with a button and a simple monochrome screen, and you've got what is essentially an electronic die. It then occurred to me, "hey...we've got a screen, a button, and a computer.......that's everything you need to play Flappy Bird."
+
+And thus, this project was born. Using the exact same hardware, I embarked to write Flappy Bird for the ESP8266. The results of that are here.
+
+It should hereby be noted, the code contained within is inherently bad. I'll own that. I dabble in C++ but I am no savant with it, and I actually kind of loathe it. So if you read this code and think "wow, this is garbage," yes. It unapologetically is. Mind you, I wrote this less as a serious project and more as a challenge to myself to see if it I could do it.
